@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on on open-source projects, web applications, and opportunities to enhance my coding skills.
 - 📫 How to reach me You can connect with me via [LinkedIn](https://www.linkedin.com/in/singhneha25/) or email me at [singhneha252503@gmail.com](mailto:singhneha252503@gmail.com).
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I once developed a fully functional ATM system as part of a Bank Management System project and optimized transaction speed by 40%!
+- ⚡ Fun fact: ......
 
 <!---
 Neha-Singh25/Neha-Singh25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
