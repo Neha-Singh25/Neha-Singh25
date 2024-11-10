@@ -16,7 +16,7 @@ I'm diving deeper into **advanced Java frameworks** like Spring Boot and Hiberna
 - **Coding opportunities** to grow and improve my skills.
 
 ## 📫 Connect with Me
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/singhneha25/)  
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/singhneha25/)  
 - **Email**: singhneha252503@gmail.com
 
 ## 😄 Pronouns
