@@ -1,3 +1,70 @@
+# 👋 Hi, I'm Neha Singh
+
+💻 Software Developer (Engineer Trainee) | Java Backend | IVR & Telecom Systems
+
+Currently working at Servion Global Solutions, where I contribute to real-world **IVR and telecom applications**, building a strong foundation in backend development and system-level problem solving.
+
+---
+
+## 🚀 What I Work On
+
+* Designing and analyzing **IVR call flow systems**
+* Understanding **call routing logic** and system behavior
+* Debugging issues through **log analysis**
+* Writing and optimizing **SQL queries**
+* Supporting voice-based applications for reliable performance
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+Java, JavaScript, SQL
+
+**Frameworks & Tools**
+Spring Boot, Hibernate, Git, GitHub, Postman
+
+**Backend & Web**
+REST APIs, Servlets, JSP
+
+**Domain Expertise**
+IVR Call Flows, Cisco CVP, VXML, Telecom Systems
+
+---
+
+## 📈 Currently Improving
+
+* Advanced Java & Spring Boot
+* Backend system design
+* Writing scalable and maintainable code
+
+---
+<!--
+## 📌 Projects
+
+🚧 Updating soon — will include backend and production-like projects
+
+---
+-->
+## 🎯 Strengths
+
+Problem Solving • Debugging • Backend Development • Continuous Learning
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/singhneha25
+* GitHub: https://github.com/Neha-Singh25
+* Email: [singhneha252503@gmail.com](mailto:singhneha252503@gmail.com)
+
+---
+
+## ⚡ Beyond Code
+
+I enjoy exploring new technologies and occasionally building small creative projects to experiment with ideas.
+
+<!--
 # 👋 Hi, I'm Neha Singh!
 
 I'm a passionate software developer with a love for building efficient, scalable web applications and exploring innovative technologies. My journey in tech has led me to specialize in full stack development, especially within Java-based frameworks.
@@ -24,7 +91,7 @@ She/Her
 
 ## ⚡ Fun Fact
 I love combining creativity with code and have even created a few fun projects like a Tic-Tac-Toe game and a Ferris wheel animation with HTML, CSS, and JavaScript!
-
+--->
 <!--
 - 👋 Hi, I’m @Neha-Singh25
 - 👀 I’m interested in software development, web development, and exploring new technologies.
