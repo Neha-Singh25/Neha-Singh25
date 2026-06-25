@@ -56,7 +56,7 @@ Problem Solving • Debugging • Backend Development • Continuous Learning
 
 * LinkedIn: https://www.linkedin.com/in/singhneha25
 * GitHub: https://github.com/Neha-Singh25
-* Email: [nehaSingh251508s@gmail.com](mailto:nehaSingh251508s@gmail.com)
+* Email: [neha.Singh251508s@gmail.com](mailto:neha.Singh251508s@gmail.com)
 
 ---
 
